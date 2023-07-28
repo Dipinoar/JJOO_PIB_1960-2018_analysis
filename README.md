@@ -8,4 +8,4 @@
 
 Dashboard Olympic data vs Growth Indicators.twbx creado en Tableau
 
-![Alt text](./Dashboard.jpg?raw=true "Dashboard")
+![Alt text](./Dashboard_Tableau.jpg?raw=true "Dashboard")
