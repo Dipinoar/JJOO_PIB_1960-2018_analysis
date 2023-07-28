@@ -4,7 +4,7 @@
 2. Posteriormente realizar homologación de códigos de países con el archivo Jupyter "Verificador IOC y NOC". Como resultado, se obtiene el archivo datos.csv.
 3. La preparación y limpieza de cada fuente de datos se realiza por medio de los archivos Jupyter "Olympic clean data" y "Macroeconomia".
 4. Se puede realizar interpolación lineal y polinomial de los datos perdidos en world_bank_data usando los documentos "Ajuste lineal" y "Ajuste polinomial".
-5. Por último, dejamos sólo los datos relevantes de aquellos países que han participado en los JJOO.
+5. Por último, dejamos sólo los datos relevantes de aquellos países que han participado en los JJOO usando el archivo "Eliminador paises".
 
 Dashboard Olympic data vs Growth Indicators.twbx creado en Tableau
 
