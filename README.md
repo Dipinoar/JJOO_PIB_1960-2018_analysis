@@ -1,4 +1,4 @@
-# Preparación de datos para el análisis de países según su Crecimiento económico vs resultados en los JJOO en el período 1960-2018 
+# Preparación de datos para el análisis de países según su Crecimiento económico vs Resultados en los JJOO en el período 1960-2018 
 
 1. Para realizar el análisis, primero identificamos la fuente de los datos como world_bank_data y olympics_games.
 2. Posteriormente realizar homologación de códigos de países con el archivo Jupyter "Verificador IOC y NOC". Como resultado, se obtiene el archivo datos.csv.
